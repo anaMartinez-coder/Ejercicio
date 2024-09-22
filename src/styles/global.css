@@ -1,0 +1,33 @@
+body {
+    font-family: 'Arial, sans-serif';
+    background-color: #457c83; /* Cambia el color de fondo */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    flex-direction: column;
+  }
+  
+  section {
+    background-color: #c6e9bf; /* Cambia el color de fondo de la sección */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin-top: 20px;
+  }
+  
+  h2 {
+    color: #00796b; /* Cambia el color del texto */
+  }
+  
+  h3 {
+    color: #0288d1; /* Cambia el color del texto */
+  }
+  
+  p {
+    color: #333333; /* Cambia el color del texto */
+    line-height: 1.6;
+  }
+  
